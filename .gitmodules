@@ -1,0 +1,3 @@
+[submodule "sfgram"]
+	path = sfgram
+	url = git@github.com:nschaetti/SFGram-dataset.git
